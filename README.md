@@ -10,4 +10,5 @@
 
 1. Download image and unpack ZIP-file.
 2. Select file '2020-04-23-raspbian-stretch-bpi-m2p-sd-emmc.img' and store it with 'belenaEtcher' to SD-Card
+![](./images/Etcher.png)
 

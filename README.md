@@ -12,3 +12,9 @@
 2. Select file '2020-04-23-raspbian-stretch-bpi-m2p-sd-emmc.img' and store it with 'belenaEtcher' to SD-Card
 ![](./images/Etcher.png)
 
+
+https://haarer.github.io/linux/embedded/arm/allwinner/%22banana/pi/zero%22/2018/03/03/testing-banana-pi-m2-zero.html
+
+
+http://wiki.banana-pi.org/Getting_Started_with_M2_Zero
+

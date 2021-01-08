@@ -14,8 +14,8 @@
 ### Disable WLAN Interface
 > https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-Pi:-Disable-WLAN-Interface
 
-### Disable Multicast
-> https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-Pi:-Disable-Multicast
+### Disable Multicast and enforce IGMP
+> https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-Pi:-Disable-Multicast-and-enforce-IGMP
 
 ### IP-Tables
 > 

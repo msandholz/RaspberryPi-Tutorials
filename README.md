@@ -14,6 +14,12 @@
 ### Disable WLAN Interface
 > https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-Pi:-Disable-WLAN-Interface
 
+### Disable Multicast
+> https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-Pi:-Disable-Multicast
+
+### IP-Tables
+> 
+
 ## Banana Pi
 ### Setup Banana Pi M2 Zero
 > https://github.com/msandholz/Setting-up-PI-Systems/wiki/Banana-Pi-M2-Zero

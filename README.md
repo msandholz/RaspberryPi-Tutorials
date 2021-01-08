@@ -1,20 +1,12 @@
-# BananaPI
+# Welcome to the Setting-up-PI-Systems wiki!
 
-## Hardware-Specification
-> The Banana Pi BPI-M2 Zero has the following Specification: http://wiki.banana-pi.org/Banana_Pi_BPI-M2_ZERO  
+## Setup Rasperry Pi Zero W
+> https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-PI-Zero-W
 
-## Operating System
-> OS-Images: https://drive.google.com/drive/folders/0B_YnvHgh2rwjNExjUmlRNXdVNUE
+## Setup Banana Pi M2 Zero
+> https://github.com/msandholz/Setting-up-PI-Systems/wiki/Banana-Pi-M2-Zero
 
-### Installing image: '2020-04-10-raspbian-jessie-ap6212-bpi-m2z-sd-emmc'
+## Setup Docker + Portainer
+> https://github.com/msandholz/Setting-up-PI-Systems/wiki/Raspberry-Pi:--Docker-&--Portainer
 
-1. Download image and unpack ZIP-file.
-2. Select file '2020-04-23-raspbian-stretch-bpi-m2p-sd-emmc.img' and store it with 'belenaEtcher' to SD-Card
-![](./images/Etcher.png)
-
-
-https://haarer.github.io/linux/embedded/arm/allwinner/%22banana/pi/zero%22/2018/03/03/testing-banana-pi-m2-zero.html
-
-
-http://wiki.banana-pi.org/Getting_Started_with_M2_Zero
-
+## 
